@@ -1,0 +1,9 @@
+HTML
+Javascript
+CSS
+Actionscript
+CoffeeScript (compiled to Javascript)
+XML-based languages (X3D, SMIL, SVG, DITA, some interpreted by the browser, others transformed using XSL)
+VBScript
+Silverlight
+Java (applets)
